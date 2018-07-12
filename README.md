@@ -1,2 +1,12 @@
-# eatchicken-documents
+# eat 🐔 documents
+
 苹果提审经验经验收集
+
+
++ 白名单：不要出现winxin、wechat、Alipay等第三方支付的白名单；
++ 敏感词：不管是sdk还是游戏源码中，甚至是注释中，不要出现跟支付相关的敏感词；
+  > 敏感词提示：支付、pay、buy、zhifu、charge、sdk。。。。
+
++ 混淆：不管是sdk还是游戏源码中，尽量使用更多的代码混淆；
++ 资源文件：每个不同的包中，尽量使用不同的图片等资源；
+
